@@ -57,13 +57,9 @@ Answer: Permanent differences in outcomes across states may impact the outcome. 
 
 Changes are here
 
-<<<<<<< HEAD
 Continuing my changes here
-=======
 
-Continuing my changes
->>>>>>> 6374ef8ab296eba2392a0c1c83fae560687329e3
-
+woohoo
 
 ```{r}
 library("tidyverse")
