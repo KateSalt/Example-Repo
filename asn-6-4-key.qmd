@@ -55,9 +55,12 @@ Answer: Permanent differences in outcomes across states may impact the outcome. 
 
 #### Step 1: Declare that you will use the *tidyverse* and *lfe* package. (4 points)
 
+Changes are here
+
 ```{r}
 library("tidyverse")
 library("lfe")
+library("ggplot2")
 ```
 
 #### Step 2: Upload *data.csv* into the Environment. (2 point)
