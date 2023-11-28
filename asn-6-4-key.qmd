@@ -57,11 +57,17 @@ Answer: Permanent differences in outcomes across states may impact the outcome. 
 
 Changes are here
 
+
+woohoo
+
 Changes made by a different user
+
 
 ```{r}
 library("tidyverse")
 library("ggplot2")
+library("dplyr")
+
 ```
 
 #### Step 2: Upload *data.csv* into the Environment. (2 point)
